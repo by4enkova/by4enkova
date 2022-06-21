@@ -13,22 +13,21 @@ There are some of my projects:
 
 
 Tools:
+- IntelliJ IDEA
 - Maven/Gradle
 - Git
 - CI (GitHub Actions, AppVeyor)
 - Selenium, Selenide
-- Allure
-- JUnit5
 - Lombok
 - REST-assured
+- JUnit5
 - Docker, Docker Compose
 - Postman
-- Apache JMeter
+- Allure
 - DevTools
 
 Languages:	
 - Java
-- Markdown
 
 <!---
 by4enkova/by4enkova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
